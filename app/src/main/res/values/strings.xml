@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GuzNotara</string>
+    <string name="tagline">Perekam Rapat &amp; Ruang Kerja Dokumen AI</string>
+    <string name="btn_start_recording">Mulai Rekam</string>
+    <string name="btn_pause">Jeda</string>
+    <string name="btn_resume">Lanjut</string>
+    <string name="btn_stop_save">Selesai &amp; Simpan</string>
+    <string name="btn_cancel">Batalkan</string>
+    <string name="tab_document">Dokumen Rapat</string>
+    <string name="tab_transcript">Transkrip Lengkap</string>
+    <string name="export_pdf">Ekspor PDF</string>
+    <string name="export_markdown">Ekspor Markdown (.md)</string>
+    <string name="export_txt">Ekspor Teks (.txt)</string>
+    <string name="notification_channel_name">Perekaman Rapat Latar Belakang</string>
+    <string name="notification_channel_desc">Menjaga mikrofon tetap aktif selama perekaman rapat berlangsung.</string>
+</resources>

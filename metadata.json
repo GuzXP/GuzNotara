@@ -1,0 +1,6 @@
+{
+  "name": "GuzNotara",
+  "description": "Native Android AI Meeting Transcription & Document Workspace",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

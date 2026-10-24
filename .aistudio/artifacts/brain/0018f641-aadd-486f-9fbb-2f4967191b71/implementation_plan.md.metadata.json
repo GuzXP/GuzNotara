@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive implementation plan for GuzNotara, a native Android meeting transcription and document workspace inspired by Meeting.ai, Uniscribe, and TurboScribe. Details local audio persistence, foreground recording service, Room database architecture, Gemini-powered verbatim and structured document processing, Indonesian-first speech transcription, multi-format export (PDF/TXT/MD), and high-contrast editorial Material 3 UI design.",
+  "updatedAt":  "2026-10-24T05:19:16.133863747Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
